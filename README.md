@@ -27,7 +27,7 @@ Execute the main game file from your terminal:
 python game_12x12.py
 ```
 
-*Game Rules*
+### Game Rules
 Board: The game is played on a 12x12 grid.
 
 Players: The human is 'Player' (White) ⚪ and the computer is 'AI' (Black) ⚫.
@@ -38,7 +38,7 @@ Objective: The winner is the first player to form an unbroken chain of five of t
 
 Turns: Players alternate turns placing one piece on an empty intersection.
 
-AI Implementation
+## AI Implementation
 The AI opponent's logic is based on the Minimax algorithm, a recursive decision-making algorithm for two-player, zero-sum games.
 
 Algorithm: Minimax explores a tree of possible game states. The 'AI' (maximizing player) tries to maximize its score, while assuming the 'Player' (minimizing player) will always play optimally to minimize the AI's score.
