@@ -25,6 +25,7 @@ Execute the main game file from your terminal:
 
 ```bash
 python game_12x12.py
+```
 
 *Game Rules*
 Board: The game is played on a 12x12 grid.
