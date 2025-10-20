@@ -8,7 +8,7 @@ This repository contains a 12x12 Gomoku (also known as "5-in-a-row" or Caro) gam
 
 ### Prerequisites
 
-* Python 3.x
+* Python 3.7 or above
 * Pygame library
 
 ### Installation
