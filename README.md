@@ -1,4 +1,7 @@
 <h1> Gomoku (Caro) 12x12 Game with AI </h1>
+
+<img width="593" height="678" alt="image" src="https://github.com/user-attachments/assets/f80cc718-b50b-44cb-9075-8625a7e2b0d1" />
+
 This is a Gomoku (also known as Caro or 5-in-a-row) game written in Python and Pygame. You (White pieces) will compete against an AI (Black pieces) on a 12x12 board.
 
 Features
