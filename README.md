@@ -4,6 +4,7 @@
 This repository contains a 12x12 Gomoku (also known as "5-in-a-row" or Caro) game implemented in Python using the Pygame library. A human player (White) competes against an AI opponent (Black) that uses the Minimax algorithm with Alpha-Beta Pruning.
 
 <img width="593" height="678" alt="image" src="https://github.com/user-attachments/assets/f80cc718-b50b-44cb-9075-8625a7e2b0d1" />
+
 ## How to Play
 
 ### Prerequisites
